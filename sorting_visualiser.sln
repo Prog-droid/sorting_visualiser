@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "sorting_visualiser", "sorting_visualiser\sorting_visualiser.pyproj", "{F7DDB0B3-C784-4C88-B9F5-D75B3A44F9AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7DDB0B3-C784-4C88-B9F5-D75B3A44F9AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7DDB0B3-C784-4C88-B9F5-D75B3A44F9AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D0B03E4-77A2-4BC4-BD05-347E46A23860}
+	EndGlobalSection
+EndGlobal
